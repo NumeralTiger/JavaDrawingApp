@@ -1,1 +1,3 @@
-# JavaDrawingApp
+Used Java Swingto create this straightforward and interactive drawing tool. Using this desktop program, users can click and drag with the mouse to draw simple shapes like lines, rectangles, and ovals on a canvas. A label offering user instructions, a clear button to reset the canvas, and a dropdown to select the shape type are all features of the interface.
+
+Swing components (JFrame, JPanel, JLabel, JComboBox, and JButton) and custom Graphics2D rendering are used internally. The drawing experience is responsive and user-friendly thanks to mouse and action listeners that manage user interactions. This app showcases Java GUI capabilities by creating a sketch tool.
